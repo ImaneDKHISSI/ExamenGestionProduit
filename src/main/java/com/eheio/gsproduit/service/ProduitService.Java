@@ -5,7 +5,6 @@ package com.eheio.gsproduit.service;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.eheio.GestionProduits.Produit;
 
 /**
  * Service class for managing products.
